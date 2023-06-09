@@ -22,6 +22,6 @@ Nurse Schedule(Genetic Algorithm)
 
 #Authors
 
-<a href="https://github.com/AbdullahEren">Abdullah Eren Yürek</a>
+<a href="https://github.com/AbdullahEren" color="white">Abdullah Eren Yürek</a>
 
 <a href="https://github.com/iamAbubakr">Abubakr Marupov</a>
