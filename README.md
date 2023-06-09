@@ -19,3 +19,9 @@ Nurse Menu
 Nurse Schedule(Genetic Algorithm)
 
 ![Alt text](/images/genetic.png)
+
+#Authors
+
+<a href="https://github.com/AbdullahEren">Abdullah Eren Yürek</a>
+
+<a href="https://github.com/iamAbubakr">Abubakr Marupov</a>
