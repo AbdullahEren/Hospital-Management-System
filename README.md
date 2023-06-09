@@ -1,3 +1,8 @@
+<style>
+  a{
+  color=white;
+  }
+</style>
 # Hospital-Management-System
 
 HMS project helps to do some attributes like add,delete,view on doctors,nurses,managers,patients and surgery rooms. Also you can create schedule of nurses with genetic algorithm.
@@ -22,6 +27,6 @@ Nurse Schedule(Genetic Algorithm)
 
 #Authors
 
-<a href="https://github.com/AbdullahEren" color="white">Abdullah Eren Yürek</a>
+<a href="https://github.com/AbdullahEren">Abdullah Eren Yürek</a>
 
 <a href="https://github.com/iamAbubakr">Abubakr Marupov</a>
