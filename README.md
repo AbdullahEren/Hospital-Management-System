@@ -3,25 +3,25 @@
 
 HMS project helps to do some attributes like add,delete,view on doctors,nurses,managers,patients and surgery rooms. Also you can create schedule of nurses with genetic algorithm.
 
-#Photos
+<h1>Photos</h1>
 <br>
-Menu
+<h2>Menu</h2>
 
 ![Alt text](/images/menu.png)
 
-Manager Menu
+<h2>Manager Menu</h2>
 
 ![Alt text](/images/managerMenu.png)
 
-Nurse Menu
+<h2>Nurse Menu</h2>
 
 ![Alt text](/images/nurseMenu.png)
 
-Nurse Schedule(Genetic Algorithm)
+<h2>Nurse Schedule(Genetic Algorithm)</h2>
 
 ![Alt text](/images/genetic.png)
 
-#Authors
+<h1>Authors</h1>
 
 <a href="https://github.com/AbdullahEren" style=”color:#fff:”>Abdullah Eren Yürek</a>
 
